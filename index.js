@@ -1,5 +1,5 @@
 const app = "I don't do much.";
-const token = "41e3a63624cb661af97a26ca9fa5d2f536340d5a";
+const token = "YOUR TOKEN HERE";
 
 // fetch('https://api.github.com/repos/jquery/jquery/commits', {
 //   headers:{Authorization: `token ${token}`}
